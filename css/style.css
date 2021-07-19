@@ -130,16 +130,13 @@ body {
 .article__botton {
 	margin: 0 6%;
 	margin-top: 30px;
-	margin-bottom: 0px;
-
-	width: 100px;
-
+	text-align: center;
+	width: 110px;
 	height: 20px;
-
 	font-size: 15px;
 	background-color: rgb(134, 134, 134);
 	color: rgb(255, 255, 255);
-	padding: 2.3px 16px;
+	padding: 2.3px 10px;
 	border-radius: 4px;
 }
 .article__title-second {
@@ -173,8 +170,8 @@ body {
 .article__botton-second {
 	margin: 0 6%;
 	margin-top: 30px;
-	margin-bottom: 0px;
-	width: 105px;
+	text-align: center;
+	width: 110px;
 	height: 20px;
 	font-size: 15px;
 	background-color: rgb(134, 134, 134);
